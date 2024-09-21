@@ -38,23 +38,18 @@ We are currently working to ensure that points 1-5 can be executed independently
 1.Start the hand-eye calibration process to align the coordinates between the camera and the robotics arm.
 
 [TM_RobotArm_Calibration](https://github.com/hsylin/TM_RobotArm_Calibration)
-
 2.Connect the TM robotic arm and import the relevant arm operation functions.
 
 [TM_RobotArm_Control](https://github.com/hsylin/TM_RobotArm_Control)
-
 3.Power on the RealSense D435 and process the input into point cloud data. 
 
 [RealSense](https://github.com/hsylin/RealSense)
-
 4.Receive point cloud data and input it into the trained model, then send the predicted grasping position and orientation to the TM robotic arm for grabbing. 
 
 [TM_RobotArm_Go_Grasp](https://github.com/hsylin/TM_RobotArm_Go_Grasp)
-
 5.Launch the UI to perform the Rubik's Cube solving steps and visualize relevant information about the cube.
 
 [Rubiks_Cube_UI](https://github.com/hsylin/Rubiks_Cube_UI)
-
 ## Project Slide
 [Slide](https://github.com/hsylin/DL_Robot_RubiksCubeSolver/blob/main/slide.pptx)
 ## Project Poster
