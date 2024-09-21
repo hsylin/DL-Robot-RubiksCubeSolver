@@ -32,33 +32,31 @@ Please refer to the following format:
 
 ## Usage
 
-1.Start the hand-eye calibration process to align the coordinates between the camera and the arm.
+**Note:**  
+We are currently working to ensure that points 1-5 can be executed independently, which will make testing more convenient and allow for easier integration of new features.
+
+1.Start the hand-eye calibration process to align the coordinates between the camera and the robotics arm.
+
 [TM_RobotArm_Calibration](https://github.com/hsylin/TM_RobotArm_Calibration)
 
+2.Connect the TM robotic arm and import the relevant arm operation functions.
 
-2.Connect the TM robot arm and import the relevant arm operation functions.
 [TM_RobotArm_Control](https://github.com/hsylin/TM_RobotArm_Control)
 
-
 3.Power on the RealSense D435 and process the input into point cloud data. 
+
 [RealSense](https://github.com/hsylin/RealSense)
 
+4.Receive point cloud data and input it into the trained model, then send the predicted grasping position and orientation to the TM robotic arm for grabbing. 
 
-4.Receive point cloud data and input it into the trained model, then send the predicted grasping position to the TM robot arm for grabbing. 
 [TM_RobotArm_Go_Grasp](https://github.com/hsylin/TM_RobotArm_Go_Grasp)
 
-
 5.Launch the UI to perform the Rubik's Cube solving steps and visualize relevant information about the cube.
+
 [Rubiks_Cube_UI](https://github.com/hsylin/Rubiks_Cube_UI)
 
-
-## Future works
-
-We are working to enhance Steps 1 through 5 to enable independent testing. Additionally, we are striving to improve the green box in the UI so that it can read data from any area of the screen.
-
-
 ## Project Slide
-[slide](https://github.com/hsylin/DL_Robot_RubiksCubeSolver/blob/main/slide.pptx)
+[Slide](https://github.com/hsylin/DL_Robot_RubiksCubeSolver/blob/main/slide.pptx)
 ## Project Poster
 [Poster](https://github.com/hsylin/DL_Robot_RubiksCubeSolver/blob/main/poster.pptx)
 ## Demo Video
