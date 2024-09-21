@@ -62,3 +62,11 @@ We are currently working to ensure that points 1-5 can be executed independently
 ## Demo Video
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aG4lePK26F8/0.jpg)](https://www.youtube.com/watch?v=aG4lePK26F8)
+
+## Future Work
+
+- **Algorithm Flexibility**: We aim to incorporate various algorithms, such as the efficient deep reinforcement learning algorithm DeepCubeA, as well as the more intuitive Layer-by-Layer Method. This will enhance the solver's performance and make the approach more accessible to users.
+  
+- **Integration of VLA Models**: We plan to integrate VLA models, such as RT-2, to facilitate true human-robot interaction. This will enable more sophisticated and intuitive communication between users and the robotic system.
+
+- **Software Architecture Optimization**: We intend to optimize the software architecture to improve its modularity, allowing for the seamless integration of additional solutions and significantly enhancing the overall flexibility of the system.
