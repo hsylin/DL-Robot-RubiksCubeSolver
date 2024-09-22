@@ -28,7 +28,7 @@ We are developing a Rubik's Cube collaboration system that integrates various so
 ## Training the Model
 
 Please refer to this repository for detailed steps on model training:
-[PointCloud_GraspModel](https://github.com/hsylin/PointCloud-GraspModel)
+[PointCloud-GraspModel](https://github.com/hsylin/PointCloud-GraspModel)
 
 ## Usage
 
@@ -37,11 +37,11 @@ We are currently working to ensure that points 1-5 can be executed independently
 
 1.Start the hand-eye calibration process to align the coordinates between the camera and the robotics arm.
 
-[TM-RobotArm-Calibration](https://github.com/hsylin/TM_RobotArm-Calibration)
+[TM-RobotArm-Calibration](https://github.com/hsylin/TM-RobotArm-Calibration)
 
 2.Connect the TM robotic arm and import the relevant arm operation functions.
 
-[TM-RobotArm-Control](https://github.com/hsylin/TM_RobotArm-Control)
+[TM-RobotArm-Control](https://github.com/hsylin/TM-RobotArm-Control)
 
 3.Power on the RealSense D435 and process the input into point cloud data. 
 
@@ -49,7 +49,7 @@ We are currently working to ensure that points 1-5 can be executed independently
 
 4.Receive point cloud data and input it into the trained model, then send the predicted grasping position and orientation to the TM robotic arm for grabbing. 
 
-[TM-RobotArm-Go-Grasp](https://github.com/hsylin/TM_RobotArm-Go-Grasp)
+[TM-RobotArm-Go-Grasp](https://github.com/hsylin/TM-RobotArm-Go-Grasp)
 
 5.Launch the UI to perform the Rubik's Cube solving steps and visualize relevant information about the cube.
 
