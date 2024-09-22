@@ -27,7 +27,7 @@ We are developing a Rubik's Cube collaboration system that integrates various so
 
 ## Training the Model
 
-Please refer to the following format:
+Please refer to this repository for detailed steps on model training:
 [PointCloud_GraspModel](https://github.com/hsylin/PointCloud_GraspModel)
 
 ## Usage
