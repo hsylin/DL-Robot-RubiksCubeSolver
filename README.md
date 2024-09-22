@@ -60,7 +60,7 @@ We are currently working to ensure that points 1-5 can be executed independently
 ## Project Poster
 [Poster](https://github.com/hsylin/DL_Robot_RubiksCubeSolver/blob/main/poster.pptx)
 ## Demo Video
-
+**Note:** The demo video has been sped up due to the slow movement speed of the robotic arm.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aG4lePK26F8/0.jpg)](https://www.youtube.com/watch?v=aG4lePK26F8)
 
 ## Future Work
