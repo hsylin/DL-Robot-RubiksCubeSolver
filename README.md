@@ -76,8 +76,11 @@ We are currently working to ensure that points 1-5 can be executed independently
 ## Reference
 
 [Kociemba's two-phase algorithm](https://github.com/hkociemba/RubiksCube-TwophaseSolver)
+
 [PointNet](https://github.com/charlesq34/pointnet)
+
 [PointNetGPD](https://github.com/lianghongzhuo/PointNetGPD)
+
 
 
 
