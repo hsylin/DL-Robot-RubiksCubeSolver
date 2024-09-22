@@ -8,7 +8,7 @@ With the rapid advancement of human-robot collaboration, we can now employ robot
 We are developing a Rubik's Cube collaboration system that integrates various software and         hardware technologies to achieve human-robot interaction for solving the cube.
 
 - Sensors: RGB-D Depth Camera Realsense D435
-- Robotic Arm: TM Robot
+- Robotic Arm: TM Robotic Arm TM12M
 - Image Processing: OpenCV
 - Algorithm: Kociemba's two-phase algorithm
 - Deep Learning: PointNetGPD
