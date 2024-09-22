@@ -56,9 +56,9 @@ We are currently working to ensure that points 1-5 can be executed independently
 [Rubiks_Cube_UI](https://github.com/hsylin/Rubiks_Cube_UI)
 
 ## Project Slide
-[Slide](https://github.com/hsylin/DL_Robot_RubiksCubeSolver/blob/main/slide.pptx)
+[Slide](https://github.com/hsylin/DL_Robot_RubiksCubeSolver/raw/main/slide.pptx)
 ## Project Poster
-[Poster](https://github.com/hsylin/DL_Robot_RubiksCubeSolver/blob/main/poster.pptx)
+[Poster](https://github.com/hsylin/DL_Robot_RubiksCubeSolver/raw/main/poster.pptx)
 ## Demo Video
 
 **Note:** The demo video has been sped up due to the slow movement speed of the robotic arm.
