@@ -1,4 +1,4 @@
-# A Rubik's Cube Solution Using Deep Learning and Robotic Arm Coordination
+![image](https://github.com/user-attachments/assets/b1128cf6-0d87-47ea-a2fe-bbc9f103152b)# A Rubik's Cube Solution Using Deep Learning and Robotic Arm Coordination
 
 With the rapid advancement of human-robot collaboration, we can now employ robotic arms for more human-centered tasks. Our goal is to help individuals solve a Rubik's Cube using robotic arms, image recognition, and specialized algorithms.
 
@@ -72,3 +72,14 @@ We are currently working to ensure that points 1-5 can be executed independently
 - **Integration of VLA Models**: We plan to integrate VLA models, such as RT-2, to facilitate true human-robot interaction. This will enable more sophisticated and intuitive communication between users and the robotic system.
 
 - **Software Architecture Optimization**: We intend to optimize the software architecture to improve its modularity, allowing for the seamless integration of additional solutions and significantly enhancing the overall flexibility of the system.
+
+## Reference
+
+[Kociemba's two-phase algorithm](https://github.com/hkociemba/RubiksCube-TwophaseSolver)
+[PointNet](https://github.com/charlesq34/pointnet)
+[PointNetGPD](https://github.com/lianghongzhuo/PointNetGPD)
+
+
+
+
+
