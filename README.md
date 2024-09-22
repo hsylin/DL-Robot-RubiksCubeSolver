@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b1128cf6-0d87-47ea-a2fe-bbc9f103152b)# A Rubik's Cube Solution Using Deep Learning and Robotic Arm Coordination
+# A Rubik's Cube Solution Using Deep Learning and Robotic Arm Coordination
 
 With the rapid advancement of human-robot collaboration, we can now employ robotic arms for more human-centered tasks. Our goal is to help individuals solve a Rubik's Cube using robotic arms, image recognition, and specialized algorithms.
 
