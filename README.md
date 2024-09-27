@@ -5,7 +5,7 @@ With the rapid advancement of human-robot collaboration, we can now employ robot
 ***
 ## **Introduction**
 
-We are developing a Rubik's Cube collaboration system that integrates various software and         hardware technologies to achieve human-robot interaction for solving the cube.
+We are developing a Rubik's Cube collaboration system that integrates various software and hardware technologies to achieve human-robot interaction for solving the cube.
 
 - Sensors: RGB-D Depth Camera Realsense D435
 - Robotic Arm: TM Robotic Arm TM12M
@@ -58,7 +58,7 @@ We are currently working to ensure that points 1-5 can be executed independently
 ## Project Report
 [Report](https://github.com/hsylin/DL-Robot-RubiksCubeSolver/blob/main/report.pdf)
 ## Project Poster
-[Poster](https://github.com/hsylin/DL_Robot_RubiksCubeSolver/raw/main/poster.pptx)
+[Poster](https://github.com/hsylin/DL-Robot-RubiksCubeSolver/blob/main/poster.pdf)
 ## Demo Video
 
 **Note:** The demo video has been sped up due to the slow movement speed of the robotic arm.
