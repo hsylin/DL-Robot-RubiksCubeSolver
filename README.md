@@ -55,8 +55,8 @@ We are currently working to ensure that points 1-5 can be executed independently
 
 [Rubiks-Cube-UI](https://github.com/hsylin/Rubiks-Cube-UI)
 
-## Project Slide
-[Slide](https://github.com/hsylin/DL_Robot_RubiksCubeSolver/raw/main/slide.pptx)
+## Project Report
+[Report](https://github.com/hsylin/DL-Robot-RubiksCubeSolver/blob/main/report.pdf)
 ## Project Poster
 [Poster](https://github.com/hsylin/DL_Robot_RubiksCubeSolver/raw/main/poster.pptx)
 ## Demo Video
