@@ -68,7 +68,7 @@ We are currently working to ensure that points 1-5 can be executed independently
 ## Future Work
 
   
-- **IIntegration of Multimodal Models**: We plan to integrate multimodal models, such as RT-2 or VoxPoser, to enhance human-robot interaction, enabling more advanced and intuitive communication between users and the robotic system.
+- **Integration of Multimodal Models**: We plan to integrate multimodal models, such as RT-2 or VoxPoser, to enhance human-robot interaction, enabling more advanced and intuitive communication between users and the robotic system.
 
 - **Software Architecture Optimization**: We intend to optimize the software architecture to improve its modularity, allowing for the seamless integration of additional solutions and significantly enhancing the overall flexibility of the system.
 
