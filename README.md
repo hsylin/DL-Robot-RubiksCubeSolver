@@ -68,7 +68,7 @@ We are currently working to ensure that points 1-5 can be executed independently
 ## Future Work
 
 
-- **Integration of VLA Models**: We plan to integrate VLA models, such as RT-2 or 3D - VLA, to facilitate true human-robot interaction. This will enable more sophisticated and intuitive communication between users and the robotic system.
+- **Integration of VLA Models**: We plan to integrate VLA models, such as OpenVLA, to facilitate true human-robot interaction. This will enable more sophisticated and intuitive communication between users and the robotic system.
 
 - **Software Architecture Optimization**: We intend to optimize the software architecture to improve its modularity, allowing for the seamless integration of additional solutions and significantly enhancing the overall flexibility of the system.
 
