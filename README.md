@@ -71,7 +71,7 @@ We are currently working to ensure that points 1-5 can be executed independently
   
 - **API Modularization**: I plan to modularize key components—including PointNetGPD for grasping pose estimation, robotic arm control, gripper manipulation, and Kociemba’s two-phase algorithm—into distinct APIs. This modular design will allow for seamless integration with the LLM-based planner, improving system flexibility, scalability, and reusability across a wider range of robotic applications.
   
-- **Lighting Adjustment API**: To enhance visual processing robustness under varying environmental conditions, I propose the development of a lighting adjustment API. This API will dynamically adjust camera parameters, including exposure and white balance, to ensure optimal system performance and maintain reliability across different lighting scenarios.
+- **Lighting Adjustment API**: To enhance visual processing robustness under varying environmental conditions, I propose the development of a lighting adjustment API. This API will dynamically adjust camera parameters to ensure optimal system performance and maintain reliability across different lighting scenarios.
 
 
 ## Reference
