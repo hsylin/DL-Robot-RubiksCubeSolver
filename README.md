@@ -1,6 +1,6 @@
 # A Rubik's Cube Solution Using Deep Learning and Robotic Arm Coordination
 
-With the rapid advancement of human-robot collaboration, we can now employ robotic arms for more human-centered tasks. Our goal is to help individuals solve a Rubik's Cube using robotic arms, image recognition, and specialized algorithms.
+Our goal is to solve a Rubik's Cube using robotic arms, image recognition, and specialized algorithms.
 
 ***
 ## **Introduction**
@@ -35,23 +35,23 @@ Please refer to this repository for detailed steps on model training:
 **Note:**  
 We are currently working to ensure that points 1-5 can be executed independently, which will make testing more convenient and allow for easier integration of new features.
 
-1.Start the hand-eye calibration process to align the coordinates between the camera and the robotics arm.
-
-[TM-RobotArm-Calibration](https://github.com/hsylin/TM-RobotArm-Calibration)
-
-2.Connect the TM robotic arm and import the relevant arm operation functions.
+1.Connect the TM robotic arm and import the relevant arm operation functions.
 
 [TM-RobotArm-Control](https://github.com/hsylin/TM-RobotArm-Control)
 
-3.Power on the RealSense D435 and process the input into point cloud data. 
+2.Power on the RealSense D435 and process the input into point cloud data. 
 
 [RealSense](https://github.com/hsylin/RealSense)
+
+3.Start the hand-eye calibration process to align the coordinates between the camera and the robotics arm.
+
+[TM-RobotArm-Calibration](https://github.com/hsylin/TM-RobotArm-Calibration)
 
 4.Receive point cloud data and input it into the trained model, then send the predicted grasping position and orientation to the TM robotic arm for grabbing. 
 
 [TM-RobotArm-Go-Grasp](https://github.com/hsylin/TM-RobotArm-Go-Grasp)
 
-5.Launch the UI to perform the Rubik's Cube solving steps and visualize relevant information about the cube.
+5.Launch the UI to display the Rubik's Cube solving process and visualize relevant information about the cube.
 
 [Rubiks-Cube-UI](https://github.com/hsylin/Rubiks-Cube-UI)
 
@@ -67,11 +67,11 @@ We are currently working to ensure that points 1-5 can be executed independently
 
 ## Future Work
 
-- **Exploration of LLM as High-Level Planners**: Although the use of large language models (LLMs) as high-level planners may offer limited advantages for tasks with fixed processes, such as solving the Rubik's Cube, I intend to explore this approach as a valuable learning opportunity. By enabling LLMs to manage and coordinate multiple low-level APIs, I aim to investigate their potential for Open-vocabulary task planning in more complex robotic systems.
+- **Exploration of LLM as High-Level Planners**: Although the use of large language models (LLMs) as high-level planners may offer limited advantages for tasks with fixed processes, such as solving the Rubik's Cube, We intend to explore this approach as a valuable learning opportunity. By enabling LLMs to manage and coordinate multiple low-level APIs, We can explore their potential for open-vocabulary task planning in more complex robotic systems.
   
-- **API Modularization**: I plan to modularize key components—including PointNetGPD for grasping pose estimation, robotic arm control, gripper manipulation, and Kociemba’s two-phase algorithm—into distinct APIs. This modular design will allow for seamless integration with the LLM-based planner, improving system flexibility, scalability, and reusability across a wider range of robotic applications.
+- **API Modularization**: We plan to modularize key components—including PointNetGPD for grasping pose estimation, robotic arm control, gripper manipulation, and Kociemba’s two-phase algorithm—into distinct APIs. This modular design will allow for seamless integration with the LLM-based planner, improving system flexibility, scalability, and reusability across a wider range of robotic applications.
   
-- **Lighting Adjustment API**: To enhance visual processing robustness under varying environmental conditions, I propose the development of a lighting adjustment API. This API will dynamically adjust camera parameters to ensure optimal system performance and maintain reliability across different lighting scenarios.
+- **Lighting Adjustment API**: To enhance visual processing robustness under varying environmental conditions, We propose the development of a lighting adjustment API. This API will dynamically adjust camera parameters to ensure optimal system performance and maintain reliability across different lighting scenarios.
 
 
 ## Reference
@@ -81,7 +81,6 @@ We are currently working to ensure that points 1-5 can be executed independently
 [PointNet](https://github.com/charlesq34/pointnet)
 
 [PointNetGPD](https://github.com/lianghongzhuo/PointNetGPD)
-
 
 
 
