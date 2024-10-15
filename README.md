@@ -1,8 +1,5 @@
 # A Rubik's Cube Solution Using Deep Learning and Robotic Arm Coordination
 
-Our goal is to solve a Rubik's Cube using robotic arms, image recognition, and specialized algorithms.
-
-***
 ## **Introduction**
 
 We are developing a Rubik's Cube collaboration system that integrates various software and hardware technologies to achieve human-robot interaction for solving the cube.
